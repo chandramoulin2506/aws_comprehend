@@ -1,0 +1,365 @@
+{
+  "Entities": [
+    {
+      "Id": 0,
+      "BeginOffset": 45,
+      "EndOffset": 52,
+      "Score": 0.7635514,
+      "Text": "med0314",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 19,
+      "BeginOffset": 102,
+      "EndOffset": 105,
+      "Score": 0.5964108,
+      "Text": "div",
+      "Category": "MEDICAL_CONDITION",
+      "Type": "DX_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 1,
+      "BeginOffset": 120,
+      "EndOffset": 144,
+      "Score": 0.458594,
+      "Text": "\\\"http://www.w3.org/1999",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 2,
+      "BeginOffset": 213,
+      "EndOffset": 220,
+      "Score": 0.8431535,
+      "Text": "med0314",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 8,
+      "BeginOffset": 240,
+      "EndOffset": 250,
+      "Score": 0.9833266,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "DOSAGE",
+          "Score": 0.60470694,
+          "RelationshipScore": 0.99976164,
+          "Id": 9,
+          "BeginOffset": 251,
+          "EndOffset": 257,
+          "Text": "0.25mg",
+          "Traits": []
+        },
+        {
+          "Type": "FORM",
+          "Score": 0.81906873,
+          "RelationshipScore": 0.9998616,
+          "Id": 10,
+          "BeginOffset": 258,
+          "EndOffset": 269,
+          "Text": "Oral Tablet",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "BeginOffset": 301,
+      "EndOffset": 307,
+      "Score": 0.3913766,
+      "Text": "308047",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 11,
+      "BeginOffset": 312,
+      "EndOffset": 322,
+      "Score": 0.9942731,
+      "Text": "ALPRAZolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "DOSAGE",
+          "Score": 0.6400223,
+          "RelationshipScore": 0.99680436,
+          "Id": 12,
+          "BeginOffset": 323,
+          "EndOffset": 330,
+          "Text": "0.25 MG",
+          "Traits": []
+        },
+        {
+          "Type": "FORM",
+          "Score": 0.8638858,
+          "RelationshipScore": 0.9938619,
+          "Id": 13,
+          "BeginOffset": 331,
+          "EndOffset": 342,
+          "Text": "Oral Tablet",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "BeginOffset": 355,
+      "EndOffset": 365,
+      "Score": 0.9880888,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "STRENGTH",
+          "Score": 0.49679506,
+          "RelationshipScore": 0.9592508,
+          "Id": 15,
+          "BeginOffset": 366,
+          "EndOffset": 372,
+          "Text": "0.25mg",
+          "Traits": []
+        },
+        {
+          "Type": "FORM",
+          "Score": 0.8857992,
+          "RelationshipScore": 0.99893695,
+          "Id": 16,
+          "BeginOffset": 373,
+          "EndOffset": 384,
+          "Text": "Oral Tablet",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "BeginOffset": 483,
+      "EndOffset": 492,
+      "Score": 0.81433725,
+      "Text": "385055001",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 5,
+      "BeginOffset": 732,
+      "EndOffset": 741,
+      "Score": 0.8661414,
+      "Text": "386983007",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 17,
+      "BeginOffset": 746,
+      "EndOffset": 756,
+      "Score": 0.9901938,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 18,
+      "BeginOffset": 769,
+      "EndOffset": 779,
+      "Score": 0.9919796,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 6,
+      "BeginOffset": 834,
+      "EndOffset": 838,
+      "Score": 0.38501996,
+      "Text": "UCUM",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ADDRESS",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 7,
+      "BeginOffset": 902,
+      "EndOffset": 911,
+      "Score": 0.8449269,
+      "Text": "385055001",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 20,
+      "BeginOffset": 1021,
+      "EndOffset": 1064,
+      "Score": 0.9999541,
+      "Text": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 21,
+      "BeginOffset": 1085,
+      "EndOffset": 1091,
+      "Score": 0.43844154,
+      "Text": "308047",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "PHONE_OR_FAX",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 24,
+      "BeginOffset": 1115,
+      "EndOffset": 1125,
+      "Score": 0.9870216,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": [
+        {
+          "Type": "STRENGTH",
+          "Score": 0.77785724,
+          "RelationshipScore": 0.96452945,
+          "Id": 25,
+          "BeginOffset": 1126,
+          "EndOffset": 1132,
+          "Text": "0.25mg",
+          "Traits": []
+        },
+        {
+          "Type": "FORM",
+          "Score": 0.84787035,
+          "RelationshipScore": 0.9999417,
+          "Id": 26,
+          "BeginOffset": 1133,
+          "EndOffset": 1144,
+          "Text": "Oral Tablet",
+          "Traits": []
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "BeginOffset": 1227,
+      "EndOffset": 1251,
+      "Score": 0.9962896,
+      "Text": "http://snomed.info/sct\",",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 23,
+      "BeginOffset": 1270,
+      "EndOffset": 1279,
+      "Score": 0.97838163,
+      "Text": "385055001",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 27,
+      "BeginOffset": 1477,
+      "EndOffset": 1501,
+      "Score": 0.99894613,
+      "Text": "http://snomed.info/sct\",",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 28,
+      "BeginOffset": 1524,
+      "EndOffset": 1533,
+      "Score": 0.977554,
+      "Text": "386983007",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 30,
+      "BeginOffset": 1561,
+      "EndOffset": 1571,
+      "Score": 0.9812779,
+      "Text": "Alprazolam",
+      "Category": "MEDICATION",
+      "Type": "GENERIC_NAME",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 29,
+      "BeginOffset": 1712,
+      "EndOffset": 1737,
+      "Score": 0.9989188,
+      "Text": "http://unitsofmeasure.org",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 31,
+      "BeginOffset": 1876,
+      "EndOffset": 1900,
+      "Score": 0.98894763,
+      "Text": "http://snomed.info/sct\",",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "URL",
+      "Traits": [],
+      "Attributes": []
+    },
+    {
+      "Id": 32,
+      "BeginOffset": 1921,
+      "EndOffset": 1930,
+      "Score": 0.9752371,
+      "Text": "385055001",
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Type": "ID",
+      "Traits": [],
+      "Attributes": []
+    }
+  ],
+  "UnmappedAttributes": [],
+  "ModelVersion": "0.0.0"
+}
